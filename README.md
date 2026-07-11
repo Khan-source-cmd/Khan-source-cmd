@@ -10,7 +10,7 @@ Full-Stack Developer specializing in MERN stack, Python, and modern web technolo
 - **[SocietyConnect](https://github.com/Khan-source-cmd/society-connect)** - Housing society management with WhatsApp
 
 ### Web Development
-- **[RK Ceiling Solutions] | rkceilingsolutions.com (https://github.com/momanmr23-crypto/R.K-Enterprises-Website)** - Company portfolio website for POP & false ceiling contractors in Mumbai
+- **[RK Ceiling Solutions] | https://rkceilingsolutions.com/ https://github.com/momanmr23-crypto/R.K-Enterprises-Website)** - Company portfolio website for POP & false ceiling contractors in Mumbai
 
 ## 🛠️ Tech Stack
 
